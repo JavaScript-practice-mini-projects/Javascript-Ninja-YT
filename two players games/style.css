@@ -48,6 +48,4 @@ body{
 
 .buttonDisabled{
     cursor: not-allowed;
-    background-color: rgb(249, 59, 11);
-    color: black;
 }
